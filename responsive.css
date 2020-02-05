@@ -182,15 +182,15 @@ h2 {
    header{
      width:50%;
    }
+  body {
+    background-color:red;
+    }
 
   }
 
 
 @media(max-width:670px){
-  
-  body {
-    background-color:red;
-    }
+
     
   header{
     width: 100%;
